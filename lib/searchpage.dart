@@ -26,12 +26,12 @@ class searchpage extends StatelessWidget {
             ),
             actions: [
               InkWell(
-                onTap: () {
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(builder: (context) => SpeechScreen()),
-                  );
-                },
+                // onTap: () {
+                //   Navigator.push(
+                //     context,
+                //     MaterialPageRoute(builder: (context) => SpeechScreen()),
+                //   );
+                // },
                 child: Icon(
                   Icons.keyboard_voice,
                   color: Colors.white,

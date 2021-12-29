@@ -15,7 +15,7 @@ class updatepage extends StatelessWidget {
             decoration: BoxDecoration(
               image: DecorationImage(
                 fit: BoxFit.fill,
-                image: AssetImage('assets/update.jpg'),
+                image: AssetImage('assets/af.png'),
               ),
             ),
           ),
